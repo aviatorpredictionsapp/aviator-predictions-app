@@ -1,0 +1,7 @@
+{
+  "name": "PaymentService",
+  "version": "1.0.0",
+  "class": "PaymentService",
+  "description": "Handles PesaPal payments",
+  "type": "js"
+}
