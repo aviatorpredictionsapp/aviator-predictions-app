@@ -16,8 +16,3 @@ We operate a web-based Aviator betting prediction assistance platform that provi
 ---
 
 ## Getting Started
-
-### Installation
-
-```bash
-npm install
