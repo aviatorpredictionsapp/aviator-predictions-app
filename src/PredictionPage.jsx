@@ -163,14 +163,14 @@ function PredictionPage() {
           <div style={styles.paymentContainer}>
             <button
               onClick={() => {
-                window.location.href = "https://store.pesapal.com/accessunlimitedpredictions";
+                window.location.href = "https://paystack.shop/pay/8dk7v4l6fj";
               }}
               style={styles.paymentButton}
             >
               Next Prediction
             </button>
             <p style={styles.paymentNote}>
-              🔒 Unlock <strong>unlimited predictions</strong> with a small one-time payment of <strong>$0.76 USD</strong> and keep winning!
+              🔒 Unlock <strong>unlimited predictions</strong> with a small <strong>one-time payment</strong> and keep winning!
             </p>
           </div>
         )}
